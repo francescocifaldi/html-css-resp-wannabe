@@ -1,6 +1,7 @@
 @media screen and (max-width: 768px){
-    .container{
+    .container {
         max-width: 100%;
+        margin: 0 auto;
     }
 }
 
@@ -29,6 +30,7 @@
 
     .steps{
         padding-bottom: 0;
+        margin-top: 0;
     }
 
     .why-us .row{
