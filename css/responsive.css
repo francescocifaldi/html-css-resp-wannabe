@@ -11,6 +11,11 @@
 
     .lessons .col{
         width: 100%;
+        padding-bottom: 48px;
+    }
+
+    .lessons{
+        padding-bottom: 0px;
     }
 
     .steps .row{
@@ -24,5 +29,16 @@
 
     .steps{
         padding-bottom: 0;
+    }
+
+    .why-us .row{
+        display: block;
+    }
+
+    .why-us .col-left, .why-us .col-right{
+        width: 100%;
+    }
+    .why-us .col-left{
+        margin-bottom: 40px;
     }
 }
